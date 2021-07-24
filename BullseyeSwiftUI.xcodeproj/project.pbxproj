@@ -13,6 +13,7 @@
 		14DAED8A26AC2EA600683E6D /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 14DAED8926AC2EA600683E6D /* Assets.xcassets */; };
 		14DAED8D26AC2EA600683E6D /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 14DAED8C26AC2EA600683E6D /* Preview Assets.xcassets */; };
 		14DAED9026AC2EA600683E6D /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 14DAED8E26AC2EA600683E6D /* LaunchScreen.storyboard */; };
+		14DAED9826AC5DD800683E6D /* AboutView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 14DAED9726AC5DD800683E6D /* AboutView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		14DAED8C26AC2EA600683E6D /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		14DAED8F26AC2EA600683E6D /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		14DAED9126AC2EA600683E6D /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		14DAED9726AC5DD800683E6D /* AboutView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AboutView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -63,6 +65,7 @@
 				14DAED8E26AC2EA600683E6D /* LaunchScreen.storyboard */,
 				14DAED9126AC2EA600683E6D /* Info.plist */,
 				14DAED8B26AC2EA600683E6D /* Preview Content */,
+				14DAED9726AC5DD800683E6D /* AboutView.swift */,
 			);
 			path = BullseyeSwiftUI;
 			sourceTree = "<group>";
@@ -145,6 +148,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				14DAED9826AC5DD800683E6D /* AboutView.swift in Sources */,
 				14DAED8426AC2EA500683E6D /* AppDelegate.swift in Sources */,
 				14DAED8626AC2EA500683E6D /* SceneDelegate.swift in Sources */,
 				14DAED8826AC2EA500683E6D /* ContentView.swift in Sources */,
